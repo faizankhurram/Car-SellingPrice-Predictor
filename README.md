@@ -57,5 +57,5 @@ The **Linear Regression** model achieved an **R² score of approximately 0.86**,
 1. **Clone the repository**
    ```bash
    git clone https://github.com/faizankhurram/Car-SellingPrice-Predictor.git
-cd Car-SellingPrice-Predictor
-jupyter notebook car_price_prediction.ipynb
+   cd Car-SellingPrice-Predictor
+   jupyter notebook car_price_prediction.ipynb
